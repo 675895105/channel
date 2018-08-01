@@ -1,0 +1,11 @@
+pandora,p2p://103.85.22.217:9906/5aa742b5000d480e0428bf7076aa6569.ts
+天映频道HD,http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8 
+天映频道标清,http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8 
+靖天戲劇台 HD,http://t104-156bd5.boxtv.win/live/kwzq1rse/f97qhzsw/index.m3u8 
+靖天卡通臺,http://t104-156bd5.boxtv.win/live/kwzq1rse/vx4hx0m7/index.m3u8 
+靖天電影台 HD,http://t104-156bd5.boxtv.win/live/kwzq1rse/h25ntcr8/index.m3u8 
+靖天映畫 HD,http://t104-156bd5.boxtv.win/live/kwzq1rse/956tfjcf/index.m3u8 
+channelu,https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8 
+channel5,https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/04.m3u8 
+channel8 ,https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8 
+ASTRO ARENA http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8 
